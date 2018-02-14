@@ -1,0 +1,28 @@
+language: php
+php:
+  - '7.0'
+  - '7.1'
+
+
+script:
+  - if [[ "$WITH_COVERAGE" == "true" ]]; then xdebug-enable; fi
+  - docker run --rm -v $PWD:/app phpqa/php-cs-fixer fix --show-progress=estimating --verbose --rules=@Symfony,@PSR2
+  - docker run --rm -v $PWD:/app phpqa/security-checker security:check
+
+deploy:
+  provider: heroku
+  api_key:
+    secure: "4915ac59-d9c7-486c-9f16-c443fc20fc5d"
+  app: indusweb
+  on:
+    repo: GasanovShamil/GasanovShamil.github.io
+    branch: master
+    php: 
+      - '7.0'
+      - '7.1'
+notifications:
+  email:
+    recipients:
+      - gasanov.sh@gmail.com
+    on_success: never
+    on_failure: always
