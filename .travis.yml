@@ -17,9 +17,7 @@ deploy:
   on:
     repo: GasanovShamil/GasanovShamil.github.io
     branch: master
-    php: 
-      - '7.0'
-      - '7.1'
+    php: '7.1'
 notifications:
   email:
     recipients:
