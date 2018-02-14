@@ -2,8 +2,6 @@
     "name": "GasanovShamil.github.io/GasanovShamil.github.io",
     "license": "MIT",
     "config": {
-        "preferred-install": "dist",
-        "sort-packages": true,
         "platform": {
             "php": "7.0.25"
         }
