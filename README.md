@@ -1,4 +1,4 @@
-# Jekyll Materialize Starter Template v0.1
+# Doc page of project
 
 *title
 
