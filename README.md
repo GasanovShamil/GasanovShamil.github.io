@@ -1,20 +1,11 @@
 # Jekyll Materialize Starter Template v0.1
 
-*A Site Starter Materialize Templates.
-
-The theme is a fork of the [minima][1]
-
-![minima theme preview](/screenshot.png)
+*title
 
 
 # License
 
-The theme is available as open source under the terms of the [MIT License][2].
 
-[Materialize][3] a  modern responsive front-end framework based on Material Design
-
-Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
-
-[1]: https://github.com/jekyll/minima
-[2]: https://opensource.org/licenses/MIT
-[3]: http://materializecss.com/
+# Status
+[![Build Status](https://travis-ci.org/GasanovShamil/GasanovShamil.github.io.svg?branch=master)](https://travis-ci.org/GasanovShamil/GasanovShamil.github.io)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/656a6d80d5a14b6194e3d0ed3039f5cc)](https://www.codacy.com/app/GasanovShamil/GasanovShamil.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GasanovShamil/GasanovShamil.github.io&amp;utm_campaign=Badge_Grade)
