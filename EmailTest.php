@@ -1,8 +1,9 @@
 <?php
 declare(strict_types=1);
+require_once('Email.php');
 
 use PHPUnit\Framework\TestCase;
-use Email;
+
 
 final class EmailTest extends TestCase
 {
