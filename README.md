@@ -1,20 +1,32 @@
-# Jekyll Materialize Starter Template v0.1
+# Doc page of project
 
-*A Site Starter Materialize Templates.
+# Status
+[![Build Status](https://travis-ci.org/GasanovShamil/GasanovShamil.github.io.svg?branch=master)](https://travis-ci.org/GasanovShamil/GasanovShamil.github.io)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/656a6d80d5a14b6194e3d0ed3039f5cc)](https://www.codacy.com/app/GasanovShamil/GasanovShamil.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GasanovShamil/GasanovShamil.github.io&amp;utm_campaign=Badge_Grade)
 
-The theme is a fork of the [minima][1]
-
-![minima theme preview](/screenshot.png)
+*title
 
 
-# License
+# MIT License
 
-The theme is available as open source under the terms of the [MIT License][2].
+Copyright (c) 2018 
 
-[Materialize][3] a  modern responsive front-end framework based on Material Design
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-[1]: https://github.com/jekyll/minima
-[2]: https://opensource.org/licenses/MIT
-[3]: http://materializecss.com/
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
